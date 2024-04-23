@@ -1,1 +1,1 @@
-# NH-M-01-Nghi-n-c-u-x-y-d-ng-gi-i-ph-p-thu-th-p-v-qu-n-l-log-s-c-an-ninh-m-ng-s-d-ng-ELK-STACK
+# NHÓM 01 Nghiên cứu xây dựng giải pháp thu thập và quản lý log sự cố an ninh mạng sử dụng ELK STACK
